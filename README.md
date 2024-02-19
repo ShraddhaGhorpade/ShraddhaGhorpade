@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @ShraddhaGhorpade
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science and Machine learning 
-- 💞️ I’m looking to collaborate on Data Science
-- 📫 How to reach me ...
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Skill related to software development
 
 <!---
 ShraddhaGhorpade/ShraddhaGhorpade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
